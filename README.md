@@ -75,17 +75,4 @@ The notebook includes dedicated sections for:
     * Number of episodes to converge (defined as achieving an average reward of $\geq$ 195.0 over 100 consecutive episodes for CartPole-v1).
 * **Discussion and Analysis:** A detailed qualitative discussion (provided within the notebook) on the learning curves, stability, variance, and comparative performance of DQN, REINFORCE, and Actor-Critic.
 
-## Expected Deliverables
 
-1.  **Code (`RL_Assignment_DQN_REINFORCE_A2C.ipynb`):**
-    * Well-commented and structured PyTorch code for all three algorithms.
-    * Reproducible and runnable in Google Colab.
-2.  **Short Report (PDF):**
-    * Generated from the Jupyter Notebook (File -> Print -> Save as PDF).
-    * Includes answers to all questions, plots, tables, and the detailed analysis/discussion.
-3.  **Trained Models (`.pt` files):**
-    * `dqn_model.pt`
-    * `reinforce_model.pt`
-    * `actor_critic_model.pt`
-4.  **README File (`README.md`):**
-    * This file, providing instructions and an overview of the assignment.
